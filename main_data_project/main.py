@@ -43,7 +43,7 @@ def choose():
 
 
 def main():
-    # sthn main tha vazw pou tha etrexe olo to programma xwris synarthshseis
+
     while True:
         x = choose()
 
