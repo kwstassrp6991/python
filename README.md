@@ -1,4 +1,4 @@
-# Student,Teachers & Lesson Management System (C.R.U.D) 🎓
+# Student,Teacher & Lesson Management System (C.R.U.D) 🎓
 
 This is my first **C.R.U.D project** developed in Python. It is a comprehensive management system for an educational organization, allowing for the administration of students, teachers, and lessons with full data persistence.
 
